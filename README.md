@@ -1,5 +1,5 @@
 # Testando Git
 
-![game.jpg](Dragon)
+![./game.jpg](Dragon)
 
 Repositorio para testes de git

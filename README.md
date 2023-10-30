@@ -1,4 +1,7 @@
 # Testando Git
 
 ![plot](./game.jpg)
-Repositorio para testes de git
+
+
+Apagado nova linha e criada outra!
+
